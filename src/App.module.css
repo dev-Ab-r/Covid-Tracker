@@ -10,8 +10,8 @@ body{
 }
 .img{
     width:370px;
-    padding: 5px;
-    margin-top:5px;
+    padding:5px;
+    
 }
 
 @media(max-width:570px){
