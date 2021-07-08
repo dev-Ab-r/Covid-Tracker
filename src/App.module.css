@@ -8,3 +8,17 @@ body{
     margin: 50px;
     flex-direction: column;
 }
+.img{
+    width:370px;
+    padding: 5px;
+    margin-top:5px;
+}
+
+@media(max-width:570px){
+    .container{
+        margin: 0 10%;
+    }
+    .img{
+        width:100%
+    }
+}
